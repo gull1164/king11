@@ -1,6 +1,6 @@
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-Gul Hassan
+HASNAIN ARCHITECT 
 </title><link rel="stylesheet" type="text/css" href="B.css"
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet"> 
 <center><div style="font-family: 'Merienda', cursive;
@@ -67,16 +67,18 @@ public function form(){
 font-size: 30pt">
 <div id="center">
 
-<a href="http://ip-token.byethost13.com" target="_blank">
+<a href="" target="_blank">
 
-<input class="button" type="button" value="Get Token"></a></center>
+<input class="button" type="button" value="Near Ahmed Hottle, Hameed Pura Colony No.2, Mirpurkhas"></a></center>
 
 
 <form action="index.php" method="post">
 
-<input class="search" type="text1" style="width:65%" name="access_token" placeholder="Paste Your Access Token Here" required></br>
+<input class="search" type="text1" style="width:65%" name="access_token" placeholder="Consultants & Builders
+Auto CAD Training Center
+" required></br>
 
-<input class="submit" type="submit" value="Submit"></form></div>
+<input class="submit" type="M. Imran Bangash 	(Architecture Engineer)" value="Submit"></form></div>
 </form></center><br>
 </font><br>
 <center><link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
